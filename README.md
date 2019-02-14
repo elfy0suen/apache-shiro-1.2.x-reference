@@ -1,7 +1,6 @@
 apache-shiro-1.2.x-reference
 ============================
 
-![logo](http://i1288.photobucket.com/albums/b484/elfy0suen/elfy0suen%20blog/apache-shiro-logo_zpsbce4a426.png)
 
 Chinese translation of  [Apache Shiro 1.2.x Reference Manual](http://shiro.apache.org/reference) and the other article collection. 
 The laset version of Apache Shiro is 1.2.x. You can also see the demos of the reference at <https://github.com/elfy0suen/apache-shiro-1.2.x-reference-demos>.There is also a GitBook version of the book: <http://elfy0suen.gitbooks.io/apache-shiro-1-2-x-reference> or <https://www.elfy0suen.com/apache-shiro-1.2.x-reference/>.
@@ -27,8 +26,4 @@ Let's [READ](SUMMARY.md)!
 
 ### Contact 联系作者:
 
-* Blog: [elfy0suen.com](https://elfy0suen.com)
-* Gmail: [elfy0suen521(at)gmail.com](mailto:elfy0suen521@gmail.com)
-* Weibo: [elfy0suen521](http://weibo.com/elfy0suen521)
-* Twitter: [elfy0suen521](https://twitter.com/elfy0suen521)
-* Github : [elfy0suen](https://github.com/elfy0suen)
+* Blog: [blog.elfy0suen.top](https://blog.elfy0suen.top)
